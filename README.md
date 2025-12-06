@@ -68,15 +68,26 @@
 -   [MajorGeeks](https://www.majorgeeks.com/) - Windows prylar
 -   [AZRhymes](https://azrhymes.com) - Rimlexikon på Svenska
 -   [StackEdit](https://stackedit.io/) - Det jag skriver det här i 
+- [Svenskaforum](#https://www.svenskaforum.com/) - Svenska forum
 
 ### Forum
--   [Newgrounds](https://www.newgrounds.com/) - Gamla internet vid liv
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
 - [OpenGameArt Forums](https://opengameart.org/forums/art-discussion) -  Allt om spelskapande
 - [28chan](https://www.28chan.org/board/) - Baserat
 - [22chan](https://22chan.org/) - Bara baserat
+- [Something Awful](https://forums.somethingawful.com/) - Gammalt
+- [FreddysHouse](https://forums.freddyshouse.com/) - Fredds Hus
+- [psymusic uk](https://www.psymusic.co.uk/forum//) - Psykedeliska underjorden
+- [Gardeners Corner](https://www.gardenerscorner.co.uk/) - Dem trodde dem var säkra
+- [German Car Forum](https://www.germancarforum.com/) - Jag trodde jag var säker
+- [survivalmonkey](https://www.survivalmonkey.com/) -  Jag är inte säker
+- [Pirates Ahoy!](https://www.piratesahoy.net/) - Riktiga pirater
+- [Gaming Masters](https://www.gamingmasters.org/) - Gaming mästare
+- [blenderartist.org](https://blenderartists.org/) - Blender
+- [teknik-bubblan](https://bubblan.teknikveckan.se/) - Svensk teknik forum
 
 ### Gallerier
+-   [Newgrounds](https://www.newgrounds.com/)
 - [OpenGameArt](https://opengameart.org/) 
 - [The Spriters Resource](https://www.spriters-resource.com/)
 - [The Models Resource](https://models.spriters-resource.com/)
@@ -144,7 +155,6 @@
 -   [Awesome-blender](https://github.com/agmmnn/awesome-blender) - Allt Blender
 -   [awesome-cg-vfx](https://github.com/cgwire/awesome-cg-vfx-pipeline) - CGI och VFX
 -   [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
--   [Lista på Forum](#https://forums.somethingawful.com/)
 
 ### Assets
 -   [Pexels](https://www.pexels.com/) Stock bilder och videor
