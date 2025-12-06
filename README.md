@@ -166,8 +166,5 @@
 -  [Poly Haven](https://polyhaven.com/) - Modeller, Material och HDRIs
 -   [Tracking Plates](https://www.hollywoodcamerawork.com/tracking-plates.html) - VFX problem att lösa
 
-### Osorterat
-- Nisekoi
-- edX
-- Khan Academy
+
 
