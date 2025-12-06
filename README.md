@@ -77,3 +77,30 @@
 -  [Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/) - Coolt om man orkar lära sig
 -   [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Themes och CSS redigerare för hemsidor
 - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Allt med tangentbord
+
+### Appar
+- Kinnu - Man kan typ lära sig allt och det är gratis
+- Yamera - Raw kamera app
+- Omniscient - 3D track med Iphones magi
+
+### Pirat
+-   [Rivestream](http://rivestream.org) - Ful men pålitlig streaming
+-   [Cinemaos](https://cinemaos.live/) - Snygg men opålitlig streaming
+-   [1337x](https://1337x-status.org/) - Torrent
+-   [G MEH](http://g-meh.com) - VSTs
+-   [Audioz.download](https://audioz.download/) - VST Forum
+-   [r/piracy Megathread](https://old.reddit.com/r/Piracy/wiki/megathread) -  Säkra källor 
+-   [freemediaheckyeah](https://fmhy.net/) - Allt gratis
+-   [Champagne Wiki](https://Champagne.pages.dev/) -  Allt
+-   [GenP](https://github.com/Cur10s1tyByt3/GenP) - Adobe
+-   [Ocean Of PDF](https://oceanofpdf.com/) - Sketchy
+-   [Online Courses Club](https://online-courses.club/) - Kurser
+-   [Annas Archive](https://annas-archive.org/) - Alla böcker
+-   [libgen.li](http://libgen.li) - Alternativ till annas arkiv
+-   [Virgil Search](https://virgil.samidy.com/) - Sökmotor
+-   [Team V.R](https://codec.kyiv.ua/releases.htm) - Nice
+-   Team R2R - Davinci Resolve
+-   [FileCR](https://filecr.com/us-en/) - Typ säkert
+-   [Appdoze](https://appdoze.net/) - Verkat säkert (välj gofile)
+-   [Annas Archive](https://annas-archive.org/) - Alla böcker
+- [vfxmed](https://www.vfxmed.com/category/blender/) - Massa VFX
