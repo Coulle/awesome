@@ -6,18 +6,19 @@
 - [Extensions](#Extensions)
 - [Appar](#Appar)
 - [Pirat](#Pirat)
-- VST
-- Blender
-- Listor
-- Assets
-- Youtubers
-- Artister
-- Koncept
+- [VST](#VST)
+- [Blender](#Blender)
+- [Listor](#Listor)
+- [Assets](#Assets)
+- [Youtubers](#Youtubers)
+- [Artister](#Artister)
+- [Koncept](#Koncept)
 
 ## Innehåll
 
 ### Program
-- [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
+
+ [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter 
 - [TimeSnapper](https://www.timesnapper.com) - Timelapse och statistik av datorbruk
 - [Equinox 3D](http://www.equinox3d.com/index.html) - Niche 3D program
@@ -105,3 +106,27 @@
 -   [Appdoze](https://appdoze.net/) - Verkat säkert (välj gofile)
 -   [Annas Archive](https://annas-archive.org/) - Alla böcker
 - [vfxmed](https://www.vfxmed.com/category/blender/) - Massa VFX
+
+### VST
+-   [Kilohearts](https://kilohearts.com/products/kilohearts_essentials) - Massa gratis effekter
+-   [Shaperbox](https://www.cableguys.com/shaperbox) - Gör typ allt
+-   [BL Denoiser](https://plugins4free.com/plugin/3618/) - Denoiser
+-   [Airwindows](https://www.airwindows.com/consolidated/) - Fult men fullt
+
+### Blender
+-   [Autocam](https://extensions.blender.org/add-ons/autocam/) - Kamera med stil
+-   [Bool Tool](https://extensions.blender.org/add-ons/bool-tool/) -  Bool och cutter
+
+### Listor
+-   [Lists](https://github.com/jnv/lists) - Listor av listor av listor av listor av listor av listor av listor
+-   [awesome](https://github.com/sindresorhus/awesome) - Officiella awesome
+-   [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awesome lista av awesome listor
+-   [#awesome](https://github.com/topics/awesome) - awesome listor på github
+-   [awesome-design-tools](https://github.com/goabstract/Awesome-Design-Tools) - Design verktyg
+-   [awesome-windows](https://github.com/0pandadev/awesome-windows) - Windows program
+-   [awesome-websites](https://github.com/StanForever/awesome-websites) - Hemsidor
+-   [awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - "användbara" hemsidor
+-   [Awesome-music-production](https://github.com/ad-si/awesome-music-production) - Musikproduktion
+-   [Awesome-blender](https://github.com/agmmnn/awesome-blender) - Allt Blender
+-   [awesome-cg-vfx](https://github.com/cgwire/awesome-cg-vfx-pipeline) - CGI och VFX
+-   [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
