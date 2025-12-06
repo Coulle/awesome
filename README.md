@@ -16,7 +16,7 @@
 
 
 ### Program
-- [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Small Life
+- [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter 
 - [TimeSnapper](https://www.timesnapper.com) - Timelapse och statistik av datorbruk
 - [Equinox 3D](http://www.equinox3d.com/index.html) - Niche 3D program
