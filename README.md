@@ -18,7 +18,7 @@
 
 ### Program
 
- [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
+- [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter 
 - [TimeSnapper](https://www.timesnapper.com) - Timelapse och statistik av datorbruk
 - [Equinox 3D](http://www.equinox3d.com/index.html) - Niche 3D program
@@ -130,3 +130,22 @@
 -   [Awesome-blender](https://github.com/agmmnn/awesome-blender) - Allt Blender
 -   [awesome-cg-vfx](https://github.com/cgwire/awesome-cg-vfx-pipeline) - CGI och VFX
 -   [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
+
+### Assets
+-   [Pexels](https://www.pexels.com/) Stock bilder och videor
+-   [Pixabay](https://pixabay.com/) - Stock bilder och videor och illustrationer och musik och ljudeffekter och 3D modeller och GIF:ar
+-   [Bandlab Sounds](https://www.bandlab.com/sounds/) - Samples
+-   [ActionVFX Practice Footage](https://www.actionvfx.com/practice-footage) - 🐐 NICE
+-   [BBC sound effects](https://sound-effects.bbcrewind.co.uk/) - Gratis ljudefekter
+-   [ambientCG](https://ambientcg.com/) - 🐐 Material
+-  [Poly Haven](https://polyhaven.com/) - Modeller, Material och HDRIs
+-   [Tracking Plates](https://www.hollywoodcamerawork.com/tracking-plates.html) - VFX problem att lösa
+
+### Youtubers
+-   [r_ad](https://www.youtube.com/@r_ad) - förespråkare för vår generation
+-   [Default Cube](https://www.youtube.com/@DefaultCube) - Blender guld
+- [CG Matter](https://www.youtube.com/@CGMatter) - Blender guld
+-   [Blender Secrets](https://www.youtube.com/@BlenderSecrets) - Rysk spion
+-   [closet](https://www.youtube.com/@ownerscloset) - homosexuell
+-   [Casey Faris](https://www.youtube.com/@CaseyFaris) - Bästa Fusion tutorials
+-   [DunderHumor](https://www.youtube.com/@DunderHumor) -  Gudar
