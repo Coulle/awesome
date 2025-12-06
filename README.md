@@ -42,6 +42,7 @@
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 - [ShaderGlass](https://github.com/mausimus/ShaderGlass) - CRT effekter
 - [RetroVisor](https://github.com/dirkwhoffmann/RetroVisor) - ShaderGlass för Mac och cool
+- [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
 
 ### Hemsidor
 - [Copypastatext](http://copypastatext.com) - Viktig hemsida för information
