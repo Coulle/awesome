@@ -10,9 +10,6 @@
 - [Blender](#Blender)
 - [Listor](#Listor)
 - [Assets](#Assets)
-- [Youtubers](#Youtubers)
-- [Artister](#Artister)
-- [Koncept](#Koncept)
 - [Osorterat](#Osorterat)
 
 ## Innehåll
@@ -142,25 +139,6 @@
 -   [ambientCG](https://ambientcg.com/) - 🐐 Material
 -  [Poly Haven](https://polyhaven.com/) - Modeller, Material och HDRIs
 -   [Tracking Plates](https://www.hollywoodcamerawork.com/tracking-plates.html) - VFX problem att lösa
-
-### Youtubers
--   [r_ad](https://www.youtube.com/@r_ad) - förespråkare för vår generation
--   [Default Cube](https://www.youtube.com/@DefaultCube) - Blender guld
-- [CG Matter](https://www.youtube.com/@CGMatter) - Blender guld
--   [Blender Secrets](https://www.youtube.com/@BlenderSecrets) - Rysk spion
--   [closet](https://www.youtube.com/@ownerscloset) - homosexuell
--   [Casey Faris](https://www.youtube.com/@CaseyFaris) - Bästa Fusion tutorials
--   [DunderHumor](https://www.youtube.com/@DunderHumor) -  Gudar
-
-### Artister
--   Andora
--   SAURXN
--   Haywyre
--   Boxxy
-
-### Koncept
-- Att skapa saker
-- Det Svenska språket
 
 ### Osorterat
 - Nisekoi
