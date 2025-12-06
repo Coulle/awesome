@@ -3,6 +3,8 @@
 ## Länkar
 - [Program](#Program)
 - [Hemsidor](#Hemsidor)
+- [Forum](#Forum)
+- [Gallerier](#Gallerier)
 - [Extensions](#Extensions)
 - [Appar](#Appar)
 - [Pirat](#Pirat)
@@ -44,7 +46,6 @@
 -   [Copypastatext](http://copypastatext.com) - Viktig hemsida för information
 -   [EarthCam](https://www.earthcam.com/) - Live kameror
 -   [Beepbox](https://www.beepbox.co/) - BEEP
--   [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - Frutiger Aero hemsida med Frutiger Aero
 -   [Radio Garden](https://radio.garden/) - Karta av radio rund världen
 -   [Excalidraw](http://excalidraw.com/) - Whiteboard hemsida med cool font
 -   [example.com](http://example.com/) - Ingenting viktigt fortsätt bara ⬇️
@@ -66,8 +67,22 @@
 -   [Neocities](https://neocities.org/browse) - Självständiga hemsidor
 -   [MajorGeeks](https://www.majorgeeks.com/) - Windows prylar
 -   [AZRhymes](https://azrhymes.com) - Rimlexikon på Svenska
--   [Newgrounds](https://www.newgrounds.com/) - Gamla internet vid liv
 -   [StackEdit](https://stackedit.io/) - Det jag skriver det här i 
+
+### Forum
+-   [Newgrounds](https://www.newgrounds.com/) - Gamla internet vid liv
+- [Pixel Joint](https://pixeljoint.com/) - Pixel art community
+- [OpenGameArt Forums](https://opengameart.org/forums/art-discussion) -  Allt om spelskapande
+- [28chan](https://www.28chan.org/board/) - Baserat
+- [22chan](https://22chan.org/) - Bara baserat
+
+### Gallerier
+- [OpenGameArt](https://opengameart.org/) 
+- [The Spriters Resource](https://www.spriters-resource.com/)
+- [The Models Resource](https://models.spriters-resource.com/)
+- [The Texture Resource](https://textures.spriters-resource.com/)
+- [The Sounds Resource](https://sounds.spriters-resource.com/)
+- [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - Frutiger 
 
 ### Extensions
 -   [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
@@ -144,3 +159,4 @@
 - Nisekoi
 - edX
 - Khan Academy
+
