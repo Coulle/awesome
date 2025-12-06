@@ -84,6 +84,7 @@
 - [Gaming Masters](https://www.gamingmasters.org/) - Gaming mästare
 - [blenderartist.org](https://blenderartists.org/) - Blender
 - [teknik-bubblan](https://bubblan.teknikveckan.se/) - Svensk teknik forum
+- [Gaming Latest](#https://gaminglatest.com/) - Senaste gamering
 
 ### Gallerier
 - [Newgrounds](https://www.newgrounds.com/)
