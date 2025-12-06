@@ -1,4 +1,4 @@
-<img width="1897" height="1281" alt="image" src="https://github.com/user-attachments/assets/25af156c-d359-4c41-999b-825cd09dda7a" /># awesome-elliot
+# awesome-elliot
 
 ## Länkar
 - [Program](#Program)
@@ -72,6 +72,7 @@
 - [StackEdit](https://stackedit.io/) - Det jag skriver det här i 
 - [Svenskaforum](https://www.svenskaforum.com/) - Svenska forum
 - [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
+- [Web Design Museum](https://www.webdesignmuseum.org/) - Historia och bilder av hemsidor genom tiden
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
