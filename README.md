@@ -41,30 +41,30 @@
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 
 ### Hemsidor
--   [Copypastatext](http://copypastatext.com)
--   [EarthCam](https://www.earthcam.com/)
--   [Beepbox](https://www.beepbox.co/)
--   [Frutiger Aero Archive](https://frutigeraeroarchive.org/)
--   [Radio Garden](https://radio.garden/)
--   [Excalidraw](http://excalidraw.com/)
--   [example.com](http://example.com/)
--   [Raddle](http://raddle.me/)
--   [Youglish](https://youglish.com/)
--   [Brandfetch](https://brandfetch.com/)
--   [Art of VFX](https://www.artofvfx.com)
--   [No Film School](https://nofilmschool.com)
--   [Voodoo film](https://www.voodoofilm.org)
--   [In Different Language](https://www.indifferentlanguages.com/)
--   [The Word Finder](https://www.thewordfinder.com/wordlist/)
--   [TextFX](https://textfx.withgoogle.com/)
--   [4get](http://4get.ca)
--   [AlternativeTo.net](http://alternativeto.net)
--   [Cosmos](https://www.cosmos.so/home)
--   [YTCH.TV](http://ytch.tv)
--   [RapPad](https://www.rappad.co/)
--   [Alternative Spelling](https://datayze.com/alternate-spelling-finder)
--   [Neocities](https://neocities.org/browse)
--   [MajorGeeks](https://www.majorgeeks.com/)
--   [AZRhymes](https://azrhymes.com)
--   [Newgrounds](https://www.newgrounds.com/)
--   [StackEdit](https://stackedit.io/)
+-   [Copypastatext](http://copypastatext.com) - Viktig hemsida för information
+-   [EarthCam](https://www.earthcam.com/) - Live kameror
+-   [Beepbox](https://www.beepbox.co/) - BEEP
+-   [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - Frutiger Aero hemsida med Frutiger Aero
+-   [Radio Garden](https://radio.garden/) - Karta av radio rund världen
+-   [Excalidraw](http://excalidraw.com/) - Whiteboard hemsida med cool font
+-   [example.com](http://example.com/) - Ingenting viktigt fortsätt bara ⬇️
+-   [Raddle](http://raddle.me/) - Reddit tredje part klient
+-   [Youglish](https://youglish.com/) - Vad du än skriver i linjer i youtube videor
+-   [Brandfetch](https://brandfetch.com/) - SVG filer för massa företag
+-   [Art of VFX](https://www.artofvfx.com) - Intervjuer med VFX avdelningar
+-   [No Film School](https://nofilmschool.com) -  Filmskaparnyhetssida
+-   [Voodoo film](https://www.voodoofilm.org) Filmskaparnyhetssida på svenska
+-   [In Different Language](https://www.indifferentlanguages.com/) - Ord på andra språk
+-   [The Word Finder](https://www.thewordfinder.com/wordlist/) - Ord som börjar eller slutar på...
+-   [TextFX](https://textfx.withgoogle.com/) - Maskininlärningverktyg för rap
+-   [4get](http://4get.ca) - Sökmotor som troligen inte vill döda mig
+-   [AlternativeTo.net](http://alternativeto.net) - Svensk program alternativ sida
+-   [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
+-   [YTCH.TV](http://ytch.tv) - Youtube fast som TV
+-   [RapPad](https://www.rappad.co/) - Rap anteckning och freestyle
+-   [Alternative Spelling](https://datayze.com/alternate-spelling-finder) - Andra sätt att stava ord
+-   [Neocities](https://neocities.org/browse) - Självständiga hemsidor
+-   [MajorGeeks](https://www.majorgeeks.com/) - Windows prylar
+-   [AZRhymes](https://azrhymes.com) - Rimlexikon på Svenska
+-   [Newgrounds](https://www.newgrounds.com/) - Gamla internet vid liv
+-   [StackEdit](https://stackedit.io/) - Det jag skriver det här i 
