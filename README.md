@@ -1,6 +1,6 @@
 # awesome
 
-Program(#Program)
+- [Program](#Program)
 
 
 Program
