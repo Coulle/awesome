@@ -3,8 +3,8 @@
 - [Program](#Program)
 - [Hemsidor](#Hemsidor)
 - [Extensions](#Extensions)
-- Appar
-- Pirat
+- [Appar](#Appar)
+- [Pirat](#Pirat)
 - VST
 - Blender
 - Listor
