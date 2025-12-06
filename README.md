@@ -40,6 +40,7 @@
 - [BorisFX Silhouette](https://borisfx.com/products/silhouette/) - Roto nod program
 - [WizTree](https://diskanalyzer.com/) - Träd av filer för lagring
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
+- [ShadergGlass](https://github.com/mausimus/ShaderGlass) - CRT effekter
 
 ### Hemsidor
 - [Copypastatext](http://copypastatext.com) - Viktig hemsida för information
