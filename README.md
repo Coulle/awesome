@@ -1,7 +1,7 @@
 # awesome
 
 - [Program](#Program)
-- [Hemsidor](#Hemsidor)
+- Hemsidor
 - Extensions
 - Appar
 - Pirat
@@ -12,6 +12,8 @@
 - Youtubers
 - Artister
 - Koncept
+
+
 
 ### Program
 - [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Small Life
@@ -49,20 +51,20 @@
 -   [Raddle](http://raddle.me/)
 -   [Youglish](https://youglish.com/)
 -   [Brandfetch](https://brandfetch.com/)
--   Art of VFX
--   No Film School
--   Voodoo film
--   Indifferentlanguage
--   Thewordfinder
--   Textfx
--   [4get.ca](http://4get.ca) - 4get
+-   [Art of VFX](https://www.artofvfx.com)
+-   [No Film School](no%20https://nofilmschool.com)
+-   [Voodoo film](https://www.voodoofilm.org)
+-   [In Different Language](https://www.indifferentlanguages.com/)
+-   [The Word Finder](https://www.thewordfinder.com/wordlist/)
+-   [TextFX](https://textfx.withgoogle.com/)
+-   [4get](http://4get.ca)
 -   [AlternativeTo.net](http://alternativeto.net)
--   Cosmos
+-   [Cosmos](https://www.cosmos.so/home)
 -   [YTCH.TV](http://ytch.tv)
--   RapPad
--   Alternative spelling
--   Neocities
--   MajorGeeks
--   AZrhymes
--   Newgrounds
--   stackedit.io
+-   [RapPad](https://www.rappad.co/)
+-   [Alternative Spelling](https://datayze.com/alternate-spelling-finder)
+-   [Neocities](https://neocities.org/browse)
+-   [MajorGeeks](https://www.majorgeeks.com/)
+-   [AZRhymes](https://azrhymes.com)
+-   [Newgrounds](https://www.newgrounds.com/)
+-   [StackEdit](https://stackedit.io/)
