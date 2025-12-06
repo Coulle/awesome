@@ -13,8 +13,6 @@
 - Artister
 - Koncept
 
-
-
 ### Program
 - [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Small Life
 - Localsend
