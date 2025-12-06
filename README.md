@@ -1,4 +1,4 @@
-# awesome
+# awesome-elliot
 
 ## Länkar
 - [Program](#Program)
