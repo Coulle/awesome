@@ -149,3 +149,13 @@
 -   [closet](https://www.youtube.com/@ownerscloset) - homosexuell
 -   [Casey Faris](https://www.youtube.com/@CaseyFaris) - Bästa Fusion tutorials
 -   [DunderHumor](https://www.youtube.com/@DunderHumor) -  Gudar
+
+### Artister
+-   Andora
+-   SAURXN
+-   Haywyre
+-   Boxxy
+
+### Koncept
+- Att skapa saker
+- Det Svenska språket
