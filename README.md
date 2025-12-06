@@ -1,4 +1,4 @@
-# awesome-elliot
+<img width="1897" height="1281" alt="image" src="https://github.com/user-attachments/assets/25af156c-d359-4c41-999b-825cd09dda7a" /># awesome-elliot
 
 ## Länkar
 - [Program](#Program)
@@ -98,6 +98,7 @@
 - [The Texture Resource](https://textures.spriters-resource.com/)
 - [The Sounds Resource](https://sounds.spriters-resource.com/)
 - [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - Frutiger Aero sida med Frutiger Aero saker
+- [GifCities](https://gifcities.org/) - Geocities Gifs
 
 ### Extensions
 - [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
