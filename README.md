@@ -82,7 +82,7 @@
 - [The Models Resource](https://models.spriters-resource.com/)
 - [The Texture Resource](https://textures.spriters-resource.com/)
 - [The Sounds Resource](https://sounds.spriters-resource.com/)
-- [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - Frutiger 
+- [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - Frutiger Aero sida med Frutiger Aero saker
 
 ### Extensions
 -   [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
