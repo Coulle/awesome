@@ -144,6 +144,7 @@
 -   [Awesome-blender](https://github.com/agmmnn/awesome-blender) - Allt Blender
 -   [awesome-cg-vfx](https://github.com/cgwire/awesome-cg-vfx-pipeline) - CGI och VFX
 -   [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
+-   [Lista på Forum](#https://forums.somethingawful.com/)
 
 ### Assets
 -   [Pexels](https://www.pexels.com/) Stock bilder och videor
