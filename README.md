@@ -67,7 +67,8 @@
 - [MajorGeeks](https://www.majorgeeks.com/) - Windows prylar
 - [AZRhymes](https://azrhymes.com) - Rimlexikon på Svenska
 - [StackEdit](https://stackedit.io/) - Det jag skriver det här i 
-- [Svenskaforum](#https://www.svenskaforum.com/) - Svenska forum
+- [Svenskaforum](https://www.svenskaforum.com/) - Svenska forum
+- [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
