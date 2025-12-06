@@ -73,6 +73,7 @@
 - [Svenskaforum](https://www.svenskaforum.com/) - Svenska forum
 - [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
 - [Web Design Museum](https://www.webdesignmuseum.org/) - Historia och bilder av hemsidor genom tiden
+- [Same Energy](https://same.energy/) - Visuell bildsökmotor
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
