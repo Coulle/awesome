@@ -89,6 +89,7 @@
 ### Pirat
 -   [Rivestream](http://rivestream.org) - Ful men pålitlig streaming
 -   [Cinemaos](https://cinemaos.live/) - Snygg men opålitlig streaming
+-   [Cineby](https://www.cineby.gd/) - Snygg och pålitlig?
 -   [1337x](https://1337x-status.org/) - Torrent
 -   [G MEH](http://g-meh.com) - VSTs
 -   [Audioz.download](https://audioz.download/) - VST Forum
