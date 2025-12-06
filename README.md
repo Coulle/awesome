@@ -4,7 +4,7 @@
 
 
 ## Program
-- [Mini.cur]
+- [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Small Life
 - Localsend
 - TimeSnapper
 - Equinox 3D
