@@ -149,6 +149,7 @@
 - [#awesome](https://github.com/topics/awesome) - awesome listor på github
 - [awesome-design-tools](https://github.com/goabstract/Awesome-Design-Tools) - Design verktyg
 - [awesome-windows](https://github.com/0pandadev/awesome-windows) - Windows program
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - MAC
 - [awesome-websites](https://github.com/StanForever/awesome-websites) - Hemsidor
 - [awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - "användbara" hemsidor
 - [Awesome-music-production](https://github.com/ad-si/awesome-music-production) - Musikproduktion
