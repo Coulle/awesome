@@ -13,6 +13,7 @@
 - [Youtubers](#Youtubers)
 - [Artister](#Artister)
 - [Koncept](#Koncept)
+- [Osorterat](#Osorterat)
 
 ## Innehåll
 
@@ -159,3 +160,8 @@
 ### Koncept
 - Att skapa saker
 - Det Svenska språket
+
+### Osorterat
+- Nisekoi
+- edX
+- Khan Academy
