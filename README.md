@@ -2,7 +2,7 @@
 
 - [Program](#Program)
 - [Hemsidor](#Hemsidor)
-- Extensions
+- [Extensions](#Extensions)
 - Appar
 - Pirat
 - VST
@@ -68,3 +68,12 @@
 -   [AZRhymes](https://azrhymes.com) - Rimlexikon på Svenska
 -   [Newgrounds](https://www.newgrounds.com/) - Gamla internet vid liv
 -   [StackEdit](https://stackedit.io/) - Det jag skriver det här i 
+
+### Extensions
+-   [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
+-   [Allow Right-Click](https://addons.mozilla.org/en-US/firefox/addon/re-enable-right-click/) -  Låter en alltid spara bilder med högerklick
+- [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - Mixterapa
+-   [Greasy Fork](https://greasyfork.org/en) - Flottig gaffel
+-  [Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/) - Coolt om man orkar lära sig
+-   [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Themes och CSS redigerare för hemsidor
+- [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Allt med tangentbord
