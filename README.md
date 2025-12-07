@@ -78,6 +78,7 @@
 - [Presearch](https://presearch.com/) - Meta-sökmotor
 - [One Million Screenshots](https://onemillionscreenshots.com/) - Karta över top 1 million hemsidor
 - [Track Awesoome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
+- [ohh.directory](https://ooh.directory/) - Kollektion av blogar
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
@@ -169,6 +170,7 @@
 - [Awesome-blender](https://github.com/agmmnn/awesome-blender) - Allt Blender
 - [awesome-cg-vfx](https://github.com/cgwire/awesome-cg-vfx-pipeline) - CGI och VFX
 - [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
+- [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Kreativ mjukvaro-index
 
 ### Assets
 - [Pexels](https://www.pexels.com/) Stock bilder och videor
