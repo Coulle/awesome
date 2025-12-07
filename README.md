@@ -97,6 +97,7 @@
 - [blenderartist.org](https://blenderartists.org/) - Blender
 - [teknik-bubblan](https://bubblan.teknikveckan.se/) - Svensk teknik forum
 - [Gaming Latest](https://gaminglatest.com/) - Senaste gamering
+- [comfybox](https://comfybox.floofey.dog/) -  Vill rädda internet
 
 ### Gallerier
 - [Newgrounds](https://www.newgrounds.com/)
