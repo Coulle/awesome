@@ -177,7 +177,7 @@
 - [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
 - [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Kreativ mjukvaro-index
 - [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) - Internet saker
-- [unapothecary](https://unapothecary.neocities.org/websites) - Hemsidor och media
+- [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Hemsidor och media
 
 ### Assets
 - [Pexels](https://www.pexels.com/) Stock bilder och videor
