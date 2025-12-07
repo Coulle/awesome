@@ -126,7 +126,7 @@
 - [G MEH](http://g-meh.com) - VSTs
 - [Audioz.download](https://audioz.download/) - VST Forum
 - [r/piracy Megathread](https://old.reddit.com/r/Piracy/wiki/megathread) -  Säkra källor 
-- [freemediaheckyeah](https://fmhy.net/) - Allt gratis
+- [freemediaheckyeah](https://fmhy.net/) - 🐐 Allt gratis
 - [Champagne Wiki](https://Champagne.pages.dev/) -  Allt
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 - [GenP](https://github.com/Cur10s1tyByt3/GenP) - Adobe
