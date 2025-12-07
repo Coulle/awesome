@@ -84,6 +84,7 @@
 - [wiby](https://wiby.me/) - Sökmotor för gamla hemsidor
 - [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
 - [RinkWorks](http://www.rinkworks.com/) - Smart man
+- [indieblog.page](https://indieblog.page/) - Hittar bloggar på indieweb
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
