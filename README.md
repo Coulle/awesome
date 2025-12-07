@@ -79,6 +79,7 @@
 - [One Million Screenshots](https://onemillionscreenshots.com/) - Karta över top 1 million hemsidor
 - [Track Awesoome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
 - [ohh.directory](https://ooh.directory/) - Kollektion av blogar
+-- [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
