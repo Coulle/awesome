@@ -76,7 +76,6 @@
 - [Same Energy](https://same.energy/) - Visuell bildsökmotor
 - [Squoosh](https://squoosh.app/) - Bildkomprimering
 - [Perchange](https://perchance.org/generators) - Slump generatorer
-- [Random Google Search](https://perchance.org/tv89pil0jf) - Genererar random sökord
 - [Presearch](https://presearch.com/) - Meta-sökmotor
 
 ### Forum
