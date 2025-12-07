@@ -81,6 +81,7 @@
 - [ohh.directory](https://ooh.directory/) - Kollektion av blogar
 - [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
+- [wiby](https://wiby.me/) - Sökmotor för gamla hemsidor
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
