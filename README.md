@@ -77,6 +77,7 @@
 - [Squoosh](https://squoosh.app/) - Bildkomprimering
 - [Presearch](https://presearch.com/) - Meta-sökmotor
 - [One Million Screenshots](https://onemillionscreenshots.com/) - Karta över top 1 million hemsidor
+- [Track Awesoome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
