@@ -75,6 +75,8 @@
 - [Web Design Museum](https://www.webdesignmuseum.org/) - Historia och bilder av hemsidor genom tiden
 - [Same Energy](https://same.energy/) - Visuell bildsökmotor
 - [Squoosh](https://squoosh.app/) - Bildkomprimering
+- [Perchange](https://perchance.org/generators) - Slump generatorer
+- [Random Google Search](https://perchance.org/tv89pil0jf) - Genererar random sökord
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
