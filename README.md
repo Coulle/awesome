@@ -76,6 +76,7 @@
 - [Same Energy](https://same.energy/) - Visuell bildsökmotor
 - [Squoosh](https://squoosh.app/) - Bildkomprimering
 - [Presearch](https://presearch.com/) - Meta-sökmotor
+- [One Million Screenshots](https://onemillionscreenshots.com/) - Karta över top 1 million hemsidor
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
