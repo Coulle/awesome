@@ -83,6 +83,7 @@
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
 - [wiby](https://wiby.me/) - Sökmotor för gamla hemsidor
 - [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
+- [RinkWorks](http://www.rinkworks.com/) - Smart man
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
