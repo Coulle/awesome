@@ -171,7 +171,6 @@
 - [Awesome-music-production](https://github.com/ad-si/awesome-music-production) - Musikproduktion
 - [awesome-blender](https://github.com/agmmnn/awesome-blender) - Allt Blender
 - [awesome-cg-vfx](https://github.com/cgwire/awesome-cg-vfx-pipeline) - CGI och VFX
-- [awesome-search-engines](https://github.com/prirai/awesome-search-engines) - Sökmotorer
 - [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
 - [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Kreativ mjukvaro-index
 - [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) - Internet saker
