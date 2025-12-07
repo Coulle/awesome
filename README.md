@@ -141,6 +141,7 @@
 - [Appdoze](https://appdoze.net/) - Verkat säkert (välj gofile)
 - [Annas Archive](https://annas-archive.org/) - Alla böcker
 - [vfxmed](https://www.vfxmed.com/category/blender/) - Massa VFX
+- [The Piracy Glossary](https://rentry.org/The-Piracy-Glossary) - Pirat termer
 
 ### VST
 - [Kilohearts](https://kilohearts.com/products/kilohearts_essentials) - Massa gratis effekter
