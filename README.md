@@ -85,6 +85,8 @@
 - [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
 - [RinkWorks](http://www.rinkworks.com/) - Smart man
 - [indieblog.page](https://indieblog.page/) - Hittar bloggar på indieweb
+- [v86](https://copy.sh/v86/) - OS emulering
+- [Gizoogle] - Google fas' lit
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
