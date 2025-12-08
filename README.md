@@ -1,6 +1,6 @@
 # awesome-elliot
 
-## Användning
+### Användning
 - [Verktyg](#Verktyg)
 - [Hemsidor](#HemsidorV)
 - [Pirat](#Pirat)
@@ -11,7 +11,7 @@
 - [VST](#VST)
 - [Blender](#Blender)
 - [Appar](#Appar)
-## Nöje
+### Nöje
 - [Program](#Program)
 - [Forum](#Forum)
 - [Gallerier](#Gallerier)
