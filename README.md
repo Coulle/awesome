@@ -38,18 +38,6 @@
 - [RetroVisor](https://github.com/dirkwhoffmann/RetroVisor) - ShaderGlass för Mac och cool
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
 
-
-- [Track Awesome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
-- [ohh.directory](https://ooh.directory/) - Kollektion av blogar
-- [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
-- [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
-- [RinkWorks](http://www.rinkworks.com/) - Smart man
-- [indieblog.page](https://indieblog.page/) - Hittar bloggar på indieweb
-- [v86](https://copy.sh/v86/) - OS emulering
-
-
-
-
 ### Extensions
 - [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
 - [Allow Right-Click](https://addons.mozilla.org/en-US/firefox/addon/re-enable-right-click/) -  Låter en alltid spara bilder med högerklick
@@ -63,8 +51,6 @@
 - Kinnu - Man kan typ lära sig allt och det är gratis
 - Yamera - Raw kamera app
 - Omniscient - 3D track med Iphones magi
-
-
 
 ### VST
 - [Kilohearts](https://kilohearts.com/products/kilohearts_essentials) - Massa gratis effekter
