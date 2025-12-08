@@ -86,7 +86,7 @@
 - [RinkWorks](http://www.rinkworks.com/) - Smart man
 - [indieblog.page](https://indieblog.page/) - Hittar bloggar på indieweb
 - [v86](https://copy.sh/v86/) - OS emulering
-- [Gizoogle] - Google fas' lit
+- [Gizoogle](https://www.gizoogle.net/) - Google fas' lit
 
 ### Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
