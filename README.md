@@ -2,7 +2,11 @@
 
 ### Användning
 - [Verktyg](#Verktyg)
-- [Hemsidor](#HemsidorV)
+- [Hemsidor]
+  - [Sökmotorer](#Sökmotorer)
+  - [Sök](#Sök)
+  - [Webbverktyg](#Webbverktyg)
+  - [Listor](#Listor)
 - [Assets](#Assets)
 - [Pirat](#Pirat)
   - [Guider](#Guider)
@@ -14,10 +18,10 @@
 - [Appar](#Appar)
 ### Nöje
 - [Program](#Program)
+- [Hemsidor](#Hemsidor)
 - [Forum](#Forum)
 - [Gallerier](#Gallerier)
 - [Bloggar](#Bloggar)
-- [Hemsidor](#HemsidorN)
 
 #
 
@@ -39,6 +43,54 @@
 - [WizTree](https://diskanalyzer.com/) - Träd av filer för lagring
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
+
+## Sökmotorer
+- [Presearch](https://presearch.com/) - Meta-sökmotor
+- [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
+- [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
+
+## Sök
+- [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
+- [Same Energy](https://same.energy/) - Visuell bildsökmotor
+- [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
+- [In Different Language](https://www.indifferentlanguages.com/) - Ord på andra språk
+- [The Word Finder](https://www.thewordfinder.com/wordlist/) - Ord som börjar eller slutar på...
+- [Alternative Spelling](https://datayze.com/alternate-spelling-finder) - Andra sätt att stava ord
+- [Word Unscramler](https://www.wordunscrambler.net/) - Hittar ord i ord
+- [Track Awesome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
+- [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
+- [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
+- [AlternativeTo.net](http://alternativeto.net) - Hitta alternativ
+
+## Webbverktyg
+- [Beepbox](https://www.beepbox.co/) - BEEP
+- [Excalidraw](http://excalidraw.com/) - Whiteboard hemsida med cool font
+- [Youglish](https://youglish.com/) - Vad du än skriver i linjer i youtube videor
+- [Brandfetch](https://brandfetch.com/) - SVG filer för massa företag
+- [TextFX](https://textfx.withgoogle.com/) - Maskininlärningverktyg för rap
+- [RapPad](https://www.rappad.co/) - Rap anteckning och freestyle
+- [AZRhymes](https://azrhymes.com) - Rimlexikon på Svenska
+- [Squoosh](https://squoosh.app/) - Bildkomprimering
+- [StackEdit](https://stackedit.io/) - Markdown editor
+
+## Listor
+- [Lists](https://github.com/jnv/lists) - Listor av listor av listor av listor av listor av listor av listor
+- [awesome](https://github.com/sindresorhus/awesome) - Officiella awesome
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awesome lista av awesome listor
+- [#awesome](https://github.com/topics/awesome) - awesome listor på github
+- [awesome-design-tools](https://github.com/goabstract/Awesome-Design-Tools) - Design verktyg
+- [awesome-windows](https://github.com/0pandadev/awesome-windows) - Windows program
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  (shift-option-K)
+- [awesome-websites](https://github.com/StanForever/awesome-websites) - Hemsidor
+- [awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - "användbara" hemsidor
+- [Awesome-music-production](https://github.com/ad-si/awesome-music-production) - Musikproduktion
+- [awesome-blender](https://github.com/agmmnn/awesome-blender) - Allt Blender
+- [awesome-cg-vfx](https://github.com/cgwire/awesome-cg-vfx-pipeline) - CGI och VFX
+- [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
+- [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Kreativ mjukvaro-index
+- [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) - Internet saker
+
+
 
 ## Assets
 - [Pexels](https://www.pexels.com/) Stock bilder och videor
@@ -119,6 +171,17 @@
 - [ShaderGlass](https://github.com/mausimus/ShaderGlass) - CRT effekter
 - [RetroVisor](https://github.com/dirkwhoffmann/RetroVisor) - ShaderGlass för Mac och cool
 
+## Hemsidor
+- [wiby](https://wiby.me/) - Sökmotor för gamla hemsidor
+- [Gizoogle](https://www.gizoogle.net/) - Google gang
+- [Neocities](https://neocities.org/browse) - Självständiga hemsidor
+- [MajorGeeks](https://www.majorgeeks.com/) - Windows prylar
+- [v86](https://copy.sh/v86/) - OS emulering
+- [EarthCam](https://www.earthcam.com/) - Live kameror
+- [Radio Garden](https://radio.garden/) - Karta av radio rund världen
+- [Raddle](http://raddle.me/) - Reddit tredje part klient
+- [YTCH.TV](http://ytch.tv) - Youtube fast som TV
+
 ## Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
 - [OpenGameArt Forums](https://opengameart.org/forums/art-discussion) -  Allt om spelskapande
@@ -160,18 +223,3 @@
 - [Voodoo film](https://www.voodoofilm.org) Filmskaparnyhetssida på svenska
 - [ooh.directory](https://ooh.directory/) - Blog kollektion
 - [IndieBlog](https://indieblog.page/) - Hittar bloggar på indieweb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
