@@ -19,6 +19,8 @@
 - [Bloggar](#Bloggar)
 - [Hemsidor](#HemsidorN)
 
+-
+
 ### Verktyg
 
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter 
