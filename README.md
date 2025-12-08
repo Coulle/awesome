@@ -2,7 +2,7 @@
 
 ### Användning
 - [Verktyg](#Verktyg)
-- [Hemsidor]
+- Hemsidor
   - [Sökmotorer](#Sökmotorer)
   - [Sök](#Sök)
   - [Webbverktyg](#Webbverktyg)
