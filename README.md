@@ -63,8 +63,6 @@
 - [AlternativeTo.net](http://alternativeto.net) - Hitta alternativ
 
 ## Webbverktyg
-- [Beepbox](https://www.beepbox.co/) - BEEP
-- [Excalidraw](http://excalidraw.com/) - Whiteboard hemsida med cool font
 - [Youglish](https://youglish.com/) - Vad du än skriver i linjer i youtube videor
 - [Brandfetch](https://brandfetch.com/) - SVG filer för massa företag
 - [TextFX](https://textfx.withgoogle.com/) - Maskininlärningverktyg för rap
@@ -89,8 +87,6 @@
 - [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
 - [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Kreativ mjukvaro-index
 - [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) - Internet saker
-
-
 
 ## Assets
 - [Pexels](https://www.pexels.com/) Stock bilder och videor
