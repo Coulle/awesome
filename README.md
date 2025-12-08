@@ -20,7 +20,7 @@
 
 #
 
-### Verktyg
+## Verktyg
 
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter 
 - [Gaea](https://quadspinner.com/Gaea/) - Terränggenerator med noder
@@ -73,7 +73,7 @@
 - [vfxmed](https://www.vfxmed.com/category/blender/) - Massa VFX
 - [1337x](https://1337x-status.org/) - Torrent
 
-### Extensions
+## Extensions
 - [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
 - [Allow Right-Click](https://addons.mozilla.org/en-US/firefox/addon/re-enable-right-click/) -  Låter en alltid spara bilder med högerklick
 - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - Mixterapa
@@ -82,17 +82,17 @@
 - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Themes och CSS redigerare för hemsidor
 - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Allt med tangentbord
 
-### VST
+## VST
 - [Kilohearts](https://kilohearts.com/products/kilohearts_essentials) - Massa gratis effekter
 - [Shaperbox](https://www.cableguys.com/shaperbox) - Gör typ allt
 - [BL Denoiser](https://plugins4free.com/plugin/3618/) - Denoiser
 - [Airwindows](https://www.airwindows.com/consolidated/) - Fult men fullt
 
-### Blender
+## Blender
 - [Autocam](https://extensions.blender.org/add-ons/autocam/) - Kamera med stil
 - [Bool Tool](https://extensions.blender.org/add-ons/bool-tool/) -  Bool och cutter
 
-### Appar
+## Appar
 - Kinnu - Man kan typ lära sig allt och det är gratis
 - Yamera - Raw kamera app
 - Omniscient - 3D track med Iphones magi
@@ -100,7 +100,7 @@
 #
 -
 
-### Program
+## Program
 - [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
 - [TimeSnapper](https://www.timesnapper.com) - Timelapse och statistik av datorbruk
 - [Equinox 3D](http://www.equinox3d.com/index.html) - Niche 3D program
