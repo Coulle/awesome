@@ -3,6 +3,7 @@
 ### Användning
 - [Verktyg](#Verktyg)
 - [Hemsidor](#HemsidorV)
+- [Assets](#Assets)
 - [Pirat](#Pirat)
   - [Guider](#Guider)
   - [Streaming](#Streaming)
@@ -39,6 +40,15 @@
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
 
+## Assets
+- [Pexels](https://www.pexels.com/) Stock bilder och videor
+- [Pixabay](https://pixabay.com/) - Stock bilder och videor och illustrationer och musik och ljudeffekter och 3D modeller och GIF:ar
+- [Bandlab Sounds](https://www.bandlab.com/sounds/) - Samples
+- [ActionVFX Practice Footage](https://www.actionvfx.com/practice-footage) - 🐐 NICE
+- [BBC sound effects](https://sound-effects.bbcrewind.co.uk/) - Gratis ljudefekter
+- [ambientCG](https://ambientcg.com/) - 🐐 Material
+- [Poly Haven](https://polyhaven.com/) - Modeller, Material och HDRIs
+- [Tracking Plates](https://www.hollywoodcamerawork.com/tracking-plates.html) - VFX problem att lösa
 
 ## Pirat
 
@@ -96,9 +106,6 @@
 - Kinnu - Man kan typ lära sig allt och det är gratis
 - Yamera - Raw kamera app
 - Omniscient - 3D track med Iphones magi
-
-#
--
 
 ## Program
 - [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
