@@ -2,6 +2,9 @@
 
 ## Länkar
 - [Program](#Program)
+- [Forum](#Forum)
+- [Gallerier](#Gallerier)
+- [Bloggar](#Bloggar)
 - [Extensions](#Extensions)
 - [Appar](#Appar)
 - [VST](#VST)
@@ -37,6 +40,50 @@
 - [ShaderGlass](https://github.com/mausimus/ShaderGlass) - CRT effekter
 - [RetroVisor](https://github.com/dirkwhoffmann/RetroVisor) - ShaderGlass för Mac och cool
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
+
+## Forum
+- [Pixel Joint](https://pixeljoint.com/) - Pixel art community
+- [OpenGameArt Forums](https://opengameart.org/forums/art-discussion) -  Allt om spelskapande
+- [28chan](https://www.28chan.org/board/) - Baserat
+- [22chan](https://22chan.org/) - Bara baserat
+- [Something Awful](https://forums.somethingawful.com/) - Gammalt
+- [FreddysHouse](https://forums.freddyshouse.com/) - Fredds Hus
+- [psymusic uk](https://www.psymusic.co.uk/forum//) - Psykedeliska underjorden
+- [Gardeners Corner](https://www.gardenerscorner.co.uk/) - Dem trodde dem var säkra
+- [German Car Forum](https://www.germancarforum.com/) - Jag trodde jag var säker
+- [survivalmonkey](https://www.survivalmonkey.com/) -  Jag är inte säker
+- [Pirates Ahoy!](https://www.piratesahoy.net/) - Riktiga pirater
+- [Gaming Masters](https://www.gamingmasters.org/) - Gaming mästare
+- [blenderartist.org](https://blenderartists.org/) - Blender
+- [teknik-bubblan](https://bubblan.teknikveckan.se/) - Svensk teknik forum
+- [Gaming Latest](https://gaminglatest.com/) - Senaste gamering
+- [comfybox](https://comfybox.floofey.dog/) -  Vill rädda internet
+- [ForumDirectory](https://www.forumdirectory.com/) - Engelsk forum kollektion
+- [Svenskaforum](https://www.svenskaforum.com/) - Svenska forum kollektion
+
+## Gallerier
+- [Newgrounds](https://www.newgrounds.com/)
+- [OpenGameArt](https://opengameart.org/) 
+- [The Spriters Resource](https://www.spriters-resource.com/)
+- [The Models Resource](https://models.spriters-resource.com/)
+- [The Texture Resource](https://textures.spriters-resource.com/)
+- [The Sounds Resource](https://sounds.spriters-resource.com/)
+- [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - Frutiger Aero sida med Frutiger Aero saker
+- [GifCities](https://gifcities.org/) - Geocities Gifs
+- [Creative Uncut](https://www.creativeuncut.com/game-art-galleries.html) - Concept art bibliotek
+- [Web Design Museum](https://www.webdesignmuseum.org/) - Historia och bilder av hemsidor genom tiden
+- [Copypastatext](http://copypastatext.com) - Viktig hemsida för information
+- [RinkWorks](http://www.rinkworks.com/) - Smart man
+
+## Bloggar
+
+- [Art of VFX](https://www.artofvfx.com) - Intervjuer med VFX avdelningar
+- [No Film School](https://nofilmschool.com) -  Filmskaparnyhetssida
+- [Voodoo film](https://www.voodoofilm.org) Filmskaparnyhetssida på svenska
+- [ooh.directory](https://ooh.directory/) - Blog kollektion
+- [IndieBlog](https://indieblog.page/) - Hittar bloggar på indieweb
+
+
 
 ### Extensions
 - [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
