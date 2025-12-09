@@ -43,6 +43,7 @@
 - [WizTree](https://diskanalyzer.com/) - Träd av filer för lagring
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
+- [VERT](https://vert.sh/) - Fil konvertering
 
 ## Sökmotorer
 - [Presearch](https://presearch.com/) - Meta-sökmotor
