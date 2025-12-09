@@ -97,7 +97,8 @@
 - [BBC sound effects](https://sound-effects.bbcrewind.co.uk/) - Gratis ljudefekter
 - [ambientCG](https://ambientcg.com/) - 🐐 Material
 - [Poly Haven](https://polyhaven.com/) - Modeller, Material och HDRIs
-- [Tracking Plates](https://www.hollywoodcamerawork.com/tracking-plates.html) - VFX problem att lösa
+- [Tracking Plates](https://www.hollywoodcamerawork.com/tracking-plates.html) - Tracking problem
+- [Green Screen Plates](https://www.hollywoodcamerawork.com/green-screen-plates.html) - Green screen problem
 
 ## Pirat
 
