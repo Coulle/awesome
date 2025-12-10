@@ -180,6 +180,7 @@
 - [Radio Garden](https://radio.garden/) - Karta av radio rund världen
 - [Raddle](http://raddle.me/) - Reddit tredje part klient
 - [YTCH.TV](http://ytch.tv) - Youtube fast som TV
+- [Uncyclopedia](https://en.uncyclopedia.co/wiki/Main_Page) - Wikipedia?
 
 ## Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
