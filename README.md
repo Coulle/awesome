@@ -156,6 +156,7 @@
 - Kinnu - Man kan typ lära sig allt och det är gratis
 - Yamera - Raw kamera app
 - Omniscient - 3D track med Iphones magi
+- Chet - Pitch träning
 
 ## Program
 - [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
