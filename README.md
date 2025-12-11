@@ -223,3 +223,7 @@
 - [Voodoo film](https://www.voodoofilm.org) Filmskaparnyhetssida på svenska
 - [ooh.directory](https://ooh.directory/) - Blog kollektion
 - [IndieBlog](https://indieblog.page/) - Hittar bloggar på indieweb
+
+Inte adderat:
+Monter.is monter group
+screencaps
