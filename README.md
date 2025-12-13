@@ -1,10 +1,10 @@
 # awesome-elliot
 
 <style>
-#single .page-content ol,
-#single .page-content ul {
-  list-style-position: outside !important;
-}
+  #single .page-content ol,
+  #single .page-content ul {
+    list-style-position: outside !important;
+  }
 </style>
 
 
