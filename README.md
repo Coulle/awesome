@@ -36,6 +36,9 @@
 ## Verktyg
 
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter 
+
+  <img src="images/LocalSend.png" width=300>
+
 - [Gaea](https://quadspinner.com/Gaea/) - Terränggenerator med noder
 - [Affinity](https://www.affinity.studio) - Nyligen gratis alternativ till Photoshop, Illustrator och Indesign
 - [MediaHuman](https://www.mediahuman.com/) - Multimediaprogram
