@@ -4,7 +4,7 @@
 - [awesome-elliot](#awesome-elliot)
     - [Användning](#användning)
     - [Nöje](#nöje)
-- [Hemsidor](#verktyg)
+- [](#)
   - [Verktyg](#verktyg)
   - [Sökmotorer](#sökmotorer)
   - [Sök](#sök)
@@ -56,11 +56,11 @@
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
 
-  ![Marginalia Search](<images/Marginalia Search.png>)
+  <img src="images/Marginalia Search.png" width=300>
 
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
 
-  ![4get](images/4get.png)
+  <img src="images/4get.png" width=300>
 
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
