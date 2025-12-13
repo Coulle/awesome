@@ -33,9 +33,10 @@
 ## Verktyg
 
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter
-
-  <img src=LocalSend.png width=50>
-
+  <details>
+  <summary></summary>
+  <img src=LocalSend.png>
+  </details>
 - [Gaea](https://quadspinner.com/Gaea/) - Terränggenerator med noder
 - [Affinity](https://www.affinity.studio) - Nyligen gratis alternativ till Photoshop, Illustrator och Indesign
 - [MediaHuman](https://www.mediahuman.com/) - Multimediaprogram
@@ -55,58 +56,72 @@
 
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
-
-  <img src="Marginalia Search.png" width=50>
-
+  <details>
+  <details>
+  <summary></summary>
+  <img src="Marginalia Search.png">
+  </details<>
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
-
-  <img src="4get.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="4get.png">
+  </details>
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
-
-  <img src="Cosmos.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="Cosmos.png">
+  </details>
 - [Same Energy](https://same.energy/) - Visuell bildsökmotor
-
-  <img src="Same Energy.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="Same Energy.png">
+  </details>
 - [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
-
-  <img src="Shapecatcher.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="Shapecatcher.png">
+  </details>
 - [In Different Language](https://www.indifferentlanguages.com/) - Ord på andra språk
-
-  <img src="In Different Languages.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="In Different Languages.png">
+  </details>
 - [The Word Finder](https://www.thewordfinder.com/wordlist/) - Ord som börjar eller slutar på...
-
-  <img src="The Word Finder.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="The Word Finder.png">
+  </details>
 - [Alternative Spelling](https://datayze.com/alternate-spelling-finder) - Andra sätt att stava ord
-
-  <img src="Alternative Spelling.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="Alternative Spelling.png">
+  </details>
 - [Word Unscrambler](https://www.wordunscrambler.net/) - Hittar ord i ord
-
-  <img src="Word Unscrambler.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="Word Unscrambler.png">
+  </details>
 - [Track Awesome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
-
-  <img src="Track Awesome List.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="Track Awesome List.png">
+  </details>
 - [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
-
-  <img src="OSS Insight.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="OSS Insight.png">
+  </details>
 - [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
-
-  <img src="TV Tropes.png" width=50>
-
+  <details>
+  <summary></summary>
+  <img src="TV Tropes.png">
+  </details>
 - [AlternativeTo.net](http://alternativeto.net) - Hitta alternativ
-    
-  <img src="AlternativeTo.png" width=50>
-
+    <details>
+    <summary></summary> 
+  <img src="AlternativeTo.png">
+  </details>
 ## Webbverktyg
 - [Youglish](https://youglish.com/) - Vad du än skriver i linjer i youtube videor
 - [Brandfetch](https://brandfetch.com/) - SVG filer för massa företag
