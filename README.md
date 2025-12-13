@@ -36,9 +36,6 @@
 ## Verktyg
 
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter 
-
-  <img src="images/LocalSend.png" width=300>
-
 - [Gaea](https://quadspinner.com/Gaea/) - Terränggenerator med noder
 - [Affinity](https://www.affinity.studio) - Nyligen gratis alternativ till Photoshop, Illustrator och Indesign
 - [MediaHuman](https://www.mediahuman.com/) - Multimediaprogram
@@ -58,12 +55,7 @@
 
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
-
-  <img src="images/Marginalia Search.png" width=300>
-
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
-
-  <img src="images/4get.png" width=300>
 
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
