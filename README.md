@@ -1,5 +1,13 @@
 # awesome-elliot
 
+<style>
+#single .page-content ol,
+#single .page-content ul {
+  list-style-position: outside !important;
+}
+</style>
+
+
 ### Användning
 - [Hemsidor](#verktyg)
   - [Verktyg](#verktyg)
@@ -66,7 +74,6 @@
   <summary></summary>
   <img src="4get.png">
   </details>
-
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
   <details>
