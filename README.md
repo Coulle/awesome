@@ -57,10 +57,10 @@
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
   <details>
-  <details>
   <summary></summary>
   <img src="Marginalia Search.png">
-  </details<>
+  </details>
+  
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
   <details>
   <summary></summary>
