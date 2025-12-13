@@ -56,11 +56,11 @@
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
 
-  ![alt text](<Marginalia Search.png>)
+  ![Marginalia Search](<images/Marginalia Search.png>)
 
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
 
-  ![alt text](4get.png)
+  ![4get](images/4get.png)
 
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
