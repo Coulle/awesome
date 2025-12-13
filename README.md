@@ -56,13 +56,14 @@
 
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
-  <details>
-  <summary>
-  </summary>
-  <img src="Marginalia Search.png">
-  </details>
-  <div>
-  </div>
+<details>
+<summary>
+</summary>
+<img src="Marginalia Search.png">
+</details>
+<div>
+<br>
+</div>
 
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
 <details>
