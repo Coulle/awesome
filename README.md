@@ -107,6 +107,7 @@
 ## Pirat
 
 - [Virgil Search](https://virgil.samidy.com/) - Sökmotor
+- [Monter Group](https://monter.is/) - Mac
 
 #### Guider
 - [r/piracy Megathread](https://old.reddit.com/r/Piracy/wiki/megathread) -  Säkra källor 
