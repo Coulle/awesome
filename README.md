@@ -1,21 +1,29 @@
 # awesome-elliot
 
 ### Användning
-- [Verktyg](#Verktyg)
-- Hemsidor
-  - [Sökmotorer](#Sökmotorer)
-  - [Sök](#Sök)
-  - [Webbverktyg](#Webbverktyg)
-  - [Listor](#Listor)
-- [Assets](#Assets)
-- [Pirat](#Pirat)
-  - [Guider](#Guider)
-  - [Streaming](#Streaming)
-  - [Nerladdning](#Netladdning)
-- [Extensions](#Extensions)
-- [VST](#VST)
-- [Blender](#Blender)
-- [Appar](#Appar)
+- [awesome-elliot](#awesome-elliot)
+    - [Användning](#användning)
+    - [Nöje](#nöje)
+- [](#)
+  - [Verktyg](#verktyg)
+  - [Sökmotorer](#sökmotorer)
+  - [Sök](#sök)
+  - [Webbverktyg](#webbverktyg)
+  - [Listor](#listor)
+  - [Assets](#assets)
+  - [Pirat](#pirat)
+      - [Guider](#guider)
+      - [Streaming](#streaming)
+      - [Nerladdning](#nerladdning)
+  - [Extensions](#extensions)
+  - [VST](#vst)
+  - [Blender](#blender)
+  - [Appar](#appar)
+  - [Program](#program)
+  - [Hemsidor](#hemsidor)
+  - [Forum](#forum)
+  - [Gallerier](#gallerier)
+  - [Bloggar](#bloggar)
 ### Nöje
 - [Program](#Program)
 - [Hemsidor](#Hemsidor)
@@ -46,9 +54,13 @@
 - [VERT](https://vert.sh/) - Fil konvertering
 
 ## Sökmotorer
-- [Presearch](https://presearch.com/) - Meta-sökmotor
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
+
+  ![alt text](<Marginalia Search.png>)
+
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
+
+  ![alt text](4get.png)
 
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
