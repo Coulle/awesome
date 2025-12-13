@@ -4,7 +4,7 @@
 - [awesome-elliot](#awesome-elliot)
     - [Användning](#användning)
     - [Nöje](#nöje)
-- [Hemsidor](#verktyg)
+- [](#)
   - [Verktyg](#verktyg)
   - [Sökmotorer](#sökmotorer)
   - [Sök](#sök)
@@ -58,20 +58,58 @@
 
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
+
+  <img src="Marginalia Search.png" width=300>
+
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
+
+  <img src="4get.png" width=300>
 
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
+
+  <img src="" width=300>
+
 - [Same Energy](https://same.energy/) - Visuell bildsökmotor
+
+  <img src="" width=300>
+
 - [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
+
+  <img src="" width=300>
+
 - [In Different Language](https://www.indifferentlanguages.com/) - Ord på andra språk
+
+  <img src="" width=300>
+
 - [The Word Finder](https://www.thewordfinder.com/wordlist/) - Ord som börjar eller slutar på...
+
+  <img src="" width=300>
+
 - [Alternative Spelling](https://datayze.com/alternate-spelling-finder) - Andra sätt att stava ord
+
+  <img src="" width=300>
+
 - [Word Unscramler](https://www.wordunscrambler.net/) - Hittar ord i ord
+
+  <img src="" width=300>
+
 - [Track Awesome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
+
+  <img src="" width=300>
+
 - [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
+
+  <img src="" width=300>
+
 - [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
+
+  <img src="" width=300>
+
+
 - [AlternativeTo.net](http://alternativeto.net) - Hitta alternativ
+    
+  <img src="" width=300>
 
 ## Webbverktyg
 - [Youglish](https://youglish.com/) - Vad du än skriver i linjer i youtube videor
