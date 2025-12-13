@@ -62,11 +62,12 @@
   </details>
 
 [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
+
   <details>
   <summary></summary>
   <img src="4get.png">
   </details>
-
+  
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
   <details>
