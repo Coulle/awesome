@@ -1,14 +1,5 @@
 # awesome-elliot
 
-<style>
-  #single .page-content ol,
-  #single .page-content ul {
-    list-style-position: outside !important;
-  }
-</style>
-
-<mark>what is DataBase</mark>
-
 ### Användning
 - [Hemsidor](#verktyg)
   - [Verktyg](#verktyg)
