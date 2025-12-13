@@ -32,11 +32,12 @@
 
 ## Verktyg
 
-- [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter
+[Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter
   <details>
   <summary></summary>
   <img src=LocalSend.png>
   </details>
+
 - [Gaea](https://quadspinner.com/Gaea/) - Terränggenerator med noder
 - [Affinity](https://www.affinity.studio) - Nyligen gratis alternativ till Photoshop, Illustrator och Indesign
 - [MediaHuman](https://www.mediahuman.com/) - Multimediaprogram
@@ -54,70 +55,71 @@
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
 - [VERT](https://vert.sh/) - Fil konvertering
 
-## Sökmotorer
 
-[Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
-<details><summary></summary><img src="Marginalia Search.png"></details>
-
-[4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
-<details><summary></summary><img src="4get.png"></details>
 
 ## Sök
-- [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
+
+[Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
   <details>
   <summary></summary>
-  <img src="Cosmos.png">
-  </details>
-- [Same Energy](https://same.energy/) - Visuell bildsökmotor
+  <img src="Cosmos.png"></details>
+
+[Same Energy](https://same.energy/) - Visuell bildsökmotor
   <details>
   <summary></summary>
   <img src="Same Energy.png">
   </details>
-- [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
+
+[Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
   <details>
   <summary></summary>
   <img src="Shapecatcher.png">
   </details>
-- [In Different Language](https://www.indifferentlanguages.com/) - Ord på andra språk
+
+[In Different Language](https://www.indifferentlanguages.com/) - Ord på andra språk
   <details>
   <summary></summary>
   <img src="In Different Languages.png">
   </details>
-- [The Word Finder](https://www.thewordfinder.com/wordlist/) - Ord som börjar eller slutar på...
+
+[The Word Finder](https://www.thewordfinder.com/wordlist/) - Ord som börjar eller slutar på...
   <details>
   <summary></summary>
   <img src="The Word Finder.png">
   </details>
-- [Alternative Spelling](https://datayze.com/alternate-spelling-finder) - Andra sätt att stava ord
+
+[Alternative Spelling](https://datayze.com/alternate-spelling-finder) - Andra sätt att stava ord
   <details>
   <summary></summary>
-  <img src="Alternative Spelling.png">
-  </details>
-- [Word Unscrambler](https://www.wordunscrambler.net/) - Hittar ord i ord
+  <img src="Alternative Spelling.png"></details>
+
+[Word Unscrambler](https://www.wordunscrambler.net/) - Hittar ord i ord
   <details>
   <summary></summary>
   <img src="Word Unscrambler.png">
   </details>
-- [Track Awesome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
+
+[Track Awesome List](https://www.trackawesomelist.com/) - Dagliga uppdateringar om awesome listor
   <details>
   <summary></summary>
-  <img src="Track Awesome List.png">
-  </details>
-- [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
+  <img src="Track Awesome List.png"></details>
+
+[OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
   <details>
   <summary></summary>
-  <img src="OSS Insight.png">
-  </details>
-- [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
+  <img src="OSS Insight.png"></details>
+
+[TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
   <details>
   <summary></summary>
   <img src="TV Tropes.png">
-  </details>
-- [AlternativeTo.net](http://alternativeto.net) - Hitta alternativ
-    <details>
-    <summary></summary> 
+  details>
+[AlternativeTo.net](http://alternativeto.net) - Hitta alternativ
+  <details>
+  <summary></summary> 
   <img src="AlternativeTo.png">
   </details>
+
 ## Webbverktyg
 - [Youglish](https://youglish.com/) - Vad du än skriver i linjer i youtube videor
 - [Brandfetch](https://brandfetch.com/) - SVG filer för massa företag
