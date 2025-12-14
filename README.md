@@ -234,3 +234,4 @@ Inte adderat:
 - screencaps
 - microsoft activator
 - softwareOK
+- SnapFiles
