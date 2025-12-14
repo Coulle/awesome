@@ -248,3 +248,4 @@
 - appstorrent.ru
 - onemillionscreenshots.com
 - https://learnxinyminutes.com/
+- https://explore.marginalia.nu/view
