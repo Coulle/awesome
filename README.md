@@ -237,3 +237,4 @@ Inte adderat:
 - SnapFiles
 - https://www.myabandonware.com/
 - https://www.betaarchive.com/
+- https://vetusware.com/
