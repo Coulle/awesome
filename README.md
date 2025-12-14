@@ -16,11 +16,7 @@
   - [VST](#vst)
   - [Blender](#blender)
   - [Appar](#appar)
-  - [Program](#program)
-  - [Hemsidor](#hemsidor)
-  - [Forum](#forum)
-  - [Gallerier](#gallerier)
-  - [Bloggar](#bloggar)
+  
 ### Nöje
 - [Program](#Program)
 - [Hemsidor](#Hemsidor)
@@ -86,7 +82,7 @@
 - [awesome-design-tools](https://github.com/goabstract/Awesome-Design-Tools) - Design verktyg
 - [awesome-windows](https://github.com/0pandadev/awesome-windows) - Windows program
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  (shift-option-K)
-- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  os apps
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  MacOS
 - [awesome-websites](https://github.com/StanForever/awesome-websites) - Hemsidor
 - [awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - "användbara" hemsidor
 - [Awesome-music-production](https://github.com/ad-si/awesome-music-production) - Musikproduktion
@@ -235,7 +231,6 @@
 
 ## Osorterat
 
-- Monter.is monter group
 - https://movie-screencaps.com
 - microsoft activator
 - softwareOK
@@ -249,3 +244,6 @@
 - https://pointlesssites.com
 - https://satyrs.eu/linkroll
 - codeberg.org
+- https://www.blackmagicdesign.com/products/davinciresolve/training
+- appstorrent.ru
+- onemillionscreenshots.com
