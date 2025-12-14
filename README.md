@@ -235,3 +235,5 @@ Inte adderat:
 - microsoft activator
 - softwareOK
 - SnapFiles
+- https://www.myabandonware.com/
+- https://www.betaarchive.com/
