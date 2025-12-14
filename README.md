@@ -232,3 +232,4 @@
 Inte adderat:
 Monter.is monter group
 screencaps
+microsoft activator
