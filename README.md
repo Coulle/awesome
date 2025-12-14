@@ -247,3 +247,4 @@
 - https://www.blackmagicdesign.com/products/davinciresolve/training
 - appstorrent.ru
 - onemillionscreenshots.com
+- https://learnxinyminutes.com/
