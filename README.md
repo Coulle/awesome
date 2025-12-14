@@ -250,3 +250,4 @@
 - https://learnxinyminutes.com/
 - https://explore.marginalia.nu/view
 - https://explore2.marginalia.nu/
+- https://r74n.com/
