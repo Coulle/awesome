@@ -27,6 +27,8 @@
 - [Forum](#Forum)
 - [Gallerier](#Gallerier)
 - [Bloggar](#Bloggar)
+#
+- [Osorterat](#osorterat)
 
 #
 
@@ -84,6 +86,7 @@
 - [awesome-design-tools](https://github.com/goabstract/Awesome-Design-Tools) - Design verktyg
 - [awesome-windows](https://github.com/0pandadev/awesome-windows) - Windows program
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  (shift-option-K)
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  os apps
 - [awesome-websites](https://github.com/StanForever/awesome-websites) - Hemsidor
 - [awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - "användbara" hemsidor
 - [Awesome-music-production](https://github.com/ad-si/awesome-music-production) - Musikproduktion
@@ -229,12 +232,20 @@
 - [ooh.directory](https://ooh.directory/) - Blog kollektion
 - [IndieBlog](https://indieblog.page/) - Hittar bloggar på indieweb
 
-Inte adderat:
+
+## Osorterat
+
 - Monter.is monter group
-- screencaps
+- https://movie-screencaps.com
 - microsoft activator
 - softwareOK
 - SnapFiles
 - https://www.myabandonware.com/
 - https://www.betaarchive.com/
 - https://vetusware.com/
+- https://ways-of-seeing.com
+- https://unapothecary.neocities.org
+- https://posting.cool
+- https://pointlesssites.com
+- https://satyrs.eu/linkroll
+- codeberg.org
