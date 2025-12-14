@@ -230,6 +230,7 @@
 - [IndieBlog](https://indieblog.page/) - Hittar bloggar på indieweb
 
 Inte adderat:
-Monter.is monter group
-screencaps
-microsoft activator
+- Monter.is monter group
+- screencaps
+- microsoft activator
+- softwareOK
