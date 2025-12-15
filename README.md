@@ -117,6 +117,7 @@
 ## Resurser
 - [Learn X In Y Minutes](https://learnxinyminutes.com/) - Cheat Sheets för flera språk I dem språken
 - [Davinci Resolve Training](https://www.blackmagicdesign.com/products/davinciresolve/training) - Videor och böcker med exempeluppgifter av Blackmagic
+- [Python Projects for Beginners to Advanced](https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/) - Python project och genomgång
 
 ## Pirat
 
