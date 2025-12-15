@@ -1,21 +1,22 @@
 # awesome-elliot
 
 ### Användning
-- [Hemsidor](#verktyg)
-  - [Verktyg](#verktyg)
-  - [Sökmotorer](#sökmotorer)
-  - [Sök](#sök)
-  - [Webbverktyg](#webbverktyg)
-  - [Listor](#listor)
-  - [Assets](#assets)
-  - [Pirat](#pirat)
-      - [Guider](#guider)
-      - [Streaming](#streaming)
-      - [Nerladdning](#nerladdning)
-  - [Extensions](#extensions)
-  - [VST](#vst)
-  - [Blender](#blender)
-  - [Appar](#appar)
+- [Verktyg](#verktyg)
+- [Kollektion](kollektion)
+- [Sökmotorer](#sökmotorer)
+- [Sök](#sök)
+- [Webbverktyg](#webbverktyg)
+- [Listor](#listor)
+- [Assets](#assets)
+- [Resurser](#resurser)
+- [Pirat](#pirat)
+  - [Guider](#guider)
+  - [Streaming](#streaming)
+  - [Nerladdning](#nerladdning)
+- [Extensions](#extensions)
+- [VST](#vst)
+- [Blender](#blender)
+- [Appar](#appar)
   
 ### Nöje
 - [Program](#Program)
@@ -48,13 +49,21 @@
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
 - [VERT](https://vert.sh/) - Fil konvertering
 
+## Kollektion
+- softwareOK
+- SnapFiles
+- https://www.myabandonware.com/
+- https://www.betaarchive.com/
+- https://vetusware.com/
+- https://pointlesssites.com
+
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
+- [Same Energy](https://same.energy/) - Visuell bildsökmotor
 
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
-- [Same Energy](https://same.energy/) - Visuell bildsökmotor
 - [Shapecatcher](https://shapecatcher.com/) - Kan hitta Unicode karaktärer genom att rita
 - [In Different Language](https://www.indifferentlanguages.com/) - Ord på andra språk
 - [The Word Finder](https://www.thewordfinder.com/wordlist/) - Ord som börjar eller slutar på...
@@ -64,6 +73,8 @@
 - [OSS Insight](https://ossinsight.io/) - Live insikt i open source utveckling
 - [TV Tropes](https://tvtropes.org/) -  Alla tänkbara troper för allt
 - [AlternativeTo.net](http://alternativeto.net) - Hitta alternativ
+- [Movie Screepcaps](https://movie-screencaps.com) - Film skärmavbilder
+- [Marginalia Similar Website Finder](https://explore2.marginalia.nu/) -  Hittar liknande hemsidor baserat på länkar
 
 ## Webbverktyg
 - [Youglish](https://youglish.com/) - Vad du än skriver i linjer i youtube videor
@@ -103,10 +114,15 @@
 - [Tracking Plates](https://www.hollywoodcamerawork.com/tracking-plates.html) - Tracking problem
 - [Green Screen Plates](https://www.hollywoodcamerawork.com/green-screen-plates.html) - Green screen problem
 
+## Resurser
+- [Learn X In Y Minutes](https://learnxinyminutes.com/) - Cheat Sheets för flera språk I dem språken
+- [Davinci Resolve Training](https://www.blackmagicdesign.com/products/davinciresolve/training) - Videor och böcker med exempeluppgifter av Blackmagic
+
 ## Pirat
 
 - [Virgil Search](https://virgil.samidy.com/) - Sökmotor
 - [Monter Group](https://monter.is/) - Mac
+- [Microsoft Activator Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) -  Permanent Windows aktivering
 
 #### Guider
 - [r/piracy Megathread](https://old.reddit.com/r/Piracy/wiki/megathread) -  Säkra källor 
@@ -136,6 +152,7 @@
 - [Annas Archive](https://annas-archive.org/) - Alla böcker
 - [vfxmed](https://www.vfxmed.com/category/blender/) - Massa VFX
 - [1337x](https://1337x-status.org/) - Torrent
+- [appstorrent](https://appstorrent.ru/) - MacOS ryska
 
 ## Extensions
 - [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
@@ -219,6 +236,7 @@
 - [Web Design Museum](https://www.webdesignmuseum.org/) - Historia och bilder av hemsidor genom tiden
 - [Copypastatext](http://copypastatext.com) - Viktig hemsida för information
 - [RinkWorks](http://www.rinkworks.com/) - Smart man
+- onemillionscreenshots.com
 
 ## Bloggar
 
@@ -231,23 +249,8 @@
 
 ## Osorterat
 
-- https://movie-screencaps.com
-- microsoft activator
-- softwareOK
-- SnapFiles
-- https://www.myabandonware.com/
-- https://www.betaarchive.com/
-- https://vetusware.com/
 - https://ways-of-seeing.com
-- https://unapothecary.neocities.org
 - https://posting.cool
-- https://pointlesssites.com
 - https://satyrs.eu/linkroll
 - codeberg.org
-- https://www.blackmagicdesign.com/products/davinciresolve/training
-- appstorrent.ru
-- onemillionscreenshots.com
-- https://learnxinyminutes.com/
-- https://explore.marginalia.nu/view
-- https://explore2.marginalia.nu/
 - https://r74n.com/
