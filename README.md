@@ -2,7 +2,7 @@
 
 ### Användning
 - [Verktyg](#verktyg)
-- [Kollektion](kollektion)
+- [Kollektion](#kollektion)
 - [Sökmotorer](#sökmotorer)
 - [Sök](#sök)
 - [Webbverktyg](#webbverktyg)
