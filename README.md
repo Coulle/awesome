@@ -50,12 +50,12 @@
 - [VERT](https://vert.sh/) - Fil konvertering
 
 ## Kollektion
-- softwareOK
-- SnapFiles
-- https://www.myabandonware.com/
-- https://www.betaarchive.com/
-- https://vetusware.com/
-- https://pointlesssites.com
+- [SoftwareOK](https://www.softwareok.com/) - Små Windows verktyg
+- [SnapFiles](https://www.snapfiles.com/) -  Freeware
+- [My Abandonware](https://www.myabandonware.com/) - Gamla spel
+- [BetaArchive](https://www.betaarchive.com/) - Stort arkiv av programvara
+- [Verusware](https://vetusware.com/) - Gamla spel och program
+- [pointlesssites](https://pointlesssites.com) - Punktlösa hemsidor
 
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
