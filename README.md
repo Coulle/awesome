@@ -236,7 +236,7 @@
 - [Web Design Museum](https://www.webdesignmuseum.org/) - Historia och bilder av hemsidor genom tiden
 - [Copypastatext](http://copypastatext.com) - Viktig hemsida för information
 - [RinkWorks](http://www.rinkworks.com/) - Smart man
-- onemillionscreenshots.com
+- [OneMillionScreenshots](https://onemillionscreenshots.com) - Karta över top 1 million hemsidor
 
 ## Bloggar
 
