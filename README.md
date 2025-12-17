@@ -255,3 +255,4 @@
 - https://satyrs.eu/linkroll
 - codeberg.org
 - https://r74n.com/
+- https://macosicons.com/#/
