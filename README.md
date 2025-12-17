@@ -32,8 +32,6 @@
 ## Verktyg
 
 - [Localsend](https://localsend.org) - 🐐 Skickar filer lokalt till och från alla enheter
-- [Gaea](https://quadspinner.com/Gaea/) - Terränggenerator med noder
-- [Affinity](https://www.affinity.studio) - Nyligen gratis alternativ till Photoshop, Illustrator och Indesign
 - [MediaHuman](https://www.mediahuman.com/) - Multimediaprogram
 - [7zip](https://www.7-zip.org/) - Zip program
 - [Shutter Encoder](https://www.shutterencoder.com/) - Video och ljud konverterare
@@ -43,7 +41,6 @@
 - [BeeRef](https://beeref.org/) - Referenshantering
 - [PrivaZer](https://privazer.com/) - Tar bort allt onödigt skräp i Windows förutom hela operativsystemet
 - [Element](https://kushview.net/element/) - VST plugin host
-- [BorisFX Silhouette](https://borisfx.com/products/silhouette/) - Roto nod program
 - [WizTree](https://diskanalyzer.com/) - Träd av filer för lagring
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
@@ -163,7 +160,6 @@
 - [Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/) - Coolt om man orkar lära sig
 - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Themes och CSS redigerare för hemsidor
 - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Allt med tangentbord
-- [Gizoogle](https://addons.mozilla.org/en-US/firefox/addon/gizoogle/) - Gizoogln'
 
 ## VST
 - [Kilohearts](https://kilohearts.com/products/kilohearts_essentials) - Massa gratis effekter
@@ -182,8 +178,6 @@
 - Chet - Pitch träning
 
 ## Program
-- [Mini.cur](https://github.com/Coulle/Mini-Cursor) - Litet liv
-- [TimeSnapper](https://www.timesnapper.com) - Timelapse och statistik av datorbruk
 - [Equinox 3D](http://www.equinox3d.com/index.html) - Niche 3D program
 - [Feather client](https://feathermc.com/) - Minecraft klient som låter en hosta en server med proxyadress
 - [Hakuneko](https://hakuneko.download/) - Laddar ner manga
