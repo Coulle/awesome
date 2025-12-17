@@ -163,6 +163,7 @@
 - [Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/) - Coolt om man orkar lära sig
 - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Themes och CSS redigerare för hemsidor
 - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) - Allt med tangentbord
+- [Gizoogle](https://addons.mozilla.org/en-US/firefox/addon/gizoogle/) - Gizoogln'
 
 ## VST
 - [Kilohearts](https://kilohearts.com/products/kilohearts_essentials) - Massa gratis effekter
