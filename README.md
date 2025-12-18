@@ -254,3 +254,8 @@
 - http://websdr.org/
 - https://publicwww.com/
 - https://en.wikipedia.org/wiki/List_of_lists_of_lists
+- https://openmhz.com/
+- https://app.code2flow.com/
+- https://github.com/Siilwyn/awesome-pixel-art?tab=readme-ov-file#tutorials
+- https://www.entireweb.com/
+- https://searchmysite.net/
