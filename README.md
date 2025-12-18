@@ -44,7 +44,6 @@
 - [WizTree](https://diskanalyzer.com/) - Träd av filer för lagring
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
-- [VERT](https://vert.sh/) - Fil konvertering
 
 ## Kollektion
 - [SoftwareOK](https://www.softwareok.com/) - Små Windows verktyg
@@ -81,6 +80,7 @@
 - [AZRhymes](https://azrhymes.com) - Rimlexikon på Svenska
 - [Squoosh](https://squoosh.app/) - Bildkomprimering
 - [StackEdit](https://stackedit.io/) - Markdown editor
+- [VERT](https://vert.sh/) - Fil konvertering
 
 ## Listor
 - [Lists](https://github.com/jnv/lists) - Listor av listor av listor av listor av listor av listor av listor
