@@ -259,3 +259,4 @@
 - https://github.com/Siilwyn/awesome-pixel-art?tab=readme-ov-file#tutorials
 - https://www.entireweb.com/
 - https://searchmysite.net/
+- https://brocoflix.xyz/
