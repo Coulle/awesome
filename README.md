@@ -57,6 +57,10 @@
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
 - [4get](https://4get.ch/instances) - Sökmotor som troligen inte vill döda mig
 - [Same Energy](https://same.energy/) - Visuell bildsökmotor
+- [wiby](https://wiby.me/) - Sökmotor för gamla hemsidor
+- [searchmysite](https://searchmysite.net/) - Indieweb sökmotor
+- [Entireweb](https://www.entireweb.com/) - Svensk metasökmotor
+- [PublicWWW](https://publicwww.com/) - Söker baserat på source code av hemsidor
 
 ## Sök
 - [Cosmos](https://www.cosmos.so/home) - 🐐 Bra hemsida för inspiration och referens
@@ -99,6 +103,8 @@
 - [Open Source Software List](https://docs.google.com/document/d/1yNXpuy5tVP0q-El0DqoY-AwmPHT6K09NEZG-Pf0KJ7E/edit?tab=t.0) - Stort dokument med open source program
 - [delightful-creative-tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Kreativ mjukvaro-index
 - [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) - Internet saker
+- [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Allt om pixel art
+- [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - Wikipedias definitiva lista av listor
 
 ## Assets
 - [Pexels](https://www.pexels.com/) Stock bilder och videor
@@ -115,6 +121,7 @@
 - [Learn X In Y Minutes](https://learnxinyminutes.com/) - Cheat Sheets för flera språk I dem språken
 - [Davinci Resolve Training](https://www.blackmagicdesign.com/products/davinciresolve/training) - Videor och böcker med exempeluppgifter av Blackmagic
 - [Python Projects for Beginners to Advanced](https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/) - Python project och genomgång
+- [macOSicons](https://macosicons.com/#/) - Mac och ios ikoner
 
 ## Pirat
 
@@ -136,6 +143,7 @@
 - [Rivestream](http://rivestream.org) - Ful men pålitlig streaming
 - [Cinemaos](https://cinemaos.live/) - Snygg men opålitlig streaming
 - [Cineby](https://www.cineby.gd/) - Snygg och pålitlig?
+- [Brocoflix](https://brocoflix.xyz/) - Pålitligt fast broco
 
 #### Nerladdning
 - Team R2R - Davinci Resolve
@@ -188,7 +196,6 @@
 - [RetroVisor](https://github.com/dirkwhoffmann/RetroVisor) - ShaderGlass för Mac och cool
 
 ## Hemsidor
-- [wiby](https://wiby.me/) - Sökmotor för gamla hemsidor
 - [Gizoogle](https://www.gizoogle.net/) - Google gang
 - [Neocities](https://neocities.org/browse) - Självständiga hemsidor
 - [MajorGeeks](https://www.majorgeeks.com/) - Windows prylar
@@ -198,6 +205,7 @@
 - [Raddle](http://raddle.me/) - Reddit tredje part klient
 - [YTCH.TV](http://ytch.tv) - Youtube fast som TV
 - [Uncyclopedia](https://en.uncyclopedia.co/wiki/Main_Page) - Wikipedia?
+- [WebSDR](http://websdr.org/) - Skrämmer mig
 
 ## Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
@@ -234,6 +242,7 @@
 - [RinkWorks](http://www.rinkworks.com/) - Smart man
 - [OneMillionScreenshots](https://onemillionscreenshots.com) - Karta över top 1 million hemsidor
 
+
 ## Bloggar
 
 - [Art of VFX](https://www.artofvfx.com) - Intervjuer med VFX avdelningar
@@ -250,13 +259,4 @@
 - https://satyrs.eu/linkroll
 - codeberg.org
 - https://r74n.com/
-- https://macosicons.com/#/
-- http://websdr.org/
-- https://publicwww.com/
-- https://en.wikipedia.org/wiki/List_of_lists_of_lists
 - https://openmhz.com/
-- https://app.code2flow.com/
-- https://github.com/Siilwyn/awesome-pixel-art?tab=readme-ov-file#tutorials
-- https://www.entireweb.com/
-- https://searchmysite.net/
-- https://brocoflix.xyz/
