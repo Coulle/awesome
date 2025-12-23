@@ -1,4 +1,4 @@
-# awesome-n-coulle
+# awesome
 
 ### Användning
 - [Verktyg](#verktyg)
