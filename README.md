@@ -260,3 +260,15 @@
 - codeberg.org
 - https://r74n.com/
 - https://openmhz.com/
+- https://github.com/tw93/Mole
+
+
+- https://yokai.com/
+- https://simple.wikipedia.org/wiki/Main_Page
+- https://www.chungkong.nl/minimal-movie-posters/
+- https://noctalia.dev/
+- https://3dassets.one/?q=&sort=popular
+- https://www.evolved-software.com/treeit/treeit
+
+- https://purelyhuman.xyz/browse
+
