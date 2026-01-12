@@ -276,3 +276,7 @@
 
 - https://dawnlabs.github.io/alchemy/
 
+- linux kommandon:
+- fish
+- xkill
+
