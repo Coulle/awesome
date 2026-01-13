@@ -276,6 +276,8 @@
 
 - https://dawnlabs.github.io/alchemy/
 
+- https://squid.wtf/
+
 - linux kommandon:
 - fish
 - xkill
