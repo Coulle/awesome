@@ -277,6 +277,7 @@
 - https://dawnlabs.github.io/alchemy/
 
 - https://squid.wtf/
+- https://nyaa.land/
 
 - linux kommandon:
 - fish
