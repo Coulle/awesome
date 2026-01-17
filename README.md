@@ -282,5 +282,5 @@
 - linux kommandon:
 - fishd
 - xkill
-
+s
 https://massgrave.dev/
