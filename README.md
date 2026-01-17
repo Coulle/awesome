@@ -280,7 +280,7 @@
 - https://nyaa.land/
 
 - linux kommandon:
-- fish
+- fishd
 - xkill
 
 https://massgrave.dev/
