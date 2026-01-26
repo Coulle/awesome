@@ -44,6 +44,8 @@
 - [WizTree](https://diskanalyzer.com/) - Träd av filer för lagring
 - [SoundQ](https://www.prosoundeffects.com/soundq) - Alla royalty free ljud från freesound.org och andra i ett program
 - [Srtly](https://github.com/patricksthannon/Srtly) - Mac fil auto organisering
+- [mole](https://github.com/tw93/Mole) - CLI optimering och rensning för 
+- [FireWally](https://nektony.com/firewally) -  simple brandvägg
 
 ## Kollektion
 - [SoftwareOK](https://www.softwareok.com/) - Små Windows verktyg
@@ -52,6 +54,7 @@
 - [BetaArchive](https://www.betaarchive.com/) - Stort arkiv av programvara
 - [Verusware](https://vetusware.com/) - Gamla spel och program
 - [pointlesssites](https://pointlesssites.com) - Punktlösa hemsidor
+- [Codeberg](https://codeberg.org/) - Non-profit Github substitut
 
 ## Sökmotorer
 - [Marginalia Search](https://marginalia-search.com/) - Sökmotor som prioriterar icke-kommersiellt innehåll
@@ -85,6 +88,7 @@
 - [Squoosh](https://squoosh.app/) - Bildkomprimering
 - [StackEdit](https://stackedit.io/) - Markdown editor
 - [VERT](https://vert.sh/) - Fil konvertering
+- [squid.wtf](https://squid.wtf/) - Hög kvalitet musik nedladdning
 
 ## Listor
 - [Lists](https://github.com/jnv/lists) - Listor av listor av listor av listor av listor av listor av listor
@@ -122,6 +126,7 @@
 - [Davinci Resolve Training](https://www.blackmagicdesign.com/products/davinciresolve/training) - Videor och böcker med exempeluppgifter av Blackmagic
 - [Python Projects for Beginners to Advanced](https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/) - Python project och genomgång
 - [macOSicons](https://macosicons.com/#/) - Mac och ios ikoner
+- [3Dassets.one](https://3dassets.one/) - Sökmotor för 3D assets
 
 ## Pirat
 
@@ -206,6 +211,7 @@
 - [YTCH.TV](http://ytch.tv) - Youtube fast som TV
 - [Uncyclopedia](https://en.uncyclopedia.co/wiki/Main_Page) - Wikipedia?
 - [WebSDR](http://websdr.org/) - Skrämmer mig
+- [R74n](https://r74n.com/) - Kod projekt
 
 ## Forum
 - [Pixel Joint](https://pixeljoint.com/) - Pixel art community
@@ -226,6 +232,7 @@
 - [comfybox](https://comfybox.floofey.dog/) -  Vill rädda internet
 - [ForumDirectory](https://www.forumdirectory.com/) - Engelsk forum kollektion
 - [Svenskaforum](https://www.svenskaforum.com/) - Svenska forum kollektion
+- [posting.cool](https://posting.cool) - The Orb
 
 ## Gallerier
 - [Newgrounds](https://www.newgrounds.com/)
@@ -254,29 +261,12 @@
 
 ## Osorterat
 
-- https://ways-of-seeing.com
-- https://posting.cool
-- https://satyrs.eu/linkroll
-- codeberg.org
-- https://r74n.com/
-- https://openmhz.com/
-- https://github.com/tw93/Mole
-
-
 - https://yokai.com/
-- https://simple.wikipedia.org/wiki/Main_Page
 - https://www.chungkong.nl/minimal-movie-posters/
-- https://noctalia.dev/
-- https://3dassets.one/?q=&sort=popular
-- https://www.evolved-software.com/treeit/treeit
-
 - https://purelyhuman.xyz/browse
-
-- FireWally
 
 - https://dawnlabs.github.io/alchemy/
 
-- https://squid.wtf/
 - https://nyaa.land/
 
 - linux kommandon:
