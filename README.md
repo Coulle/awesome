@@ -199,6 +199,7 @@
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - Cool retro terminal
 - [ShaderGlass](https://github.com/mausimus/ShaderGlass) - CRT effekter
 - [RetroVisor](https://github.com/dirkwhoffmann/RetroVisor) - ShaderGlass för Mac och cool
+- [Eagle Mode](https://eaglemode.sourceforge.net/) - ZUI app
 
 ## Hemsidor
 - [Gizoogle](https://www.gizoogle.net/) - Google gang
