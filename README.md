@@ -270,8 +270,4 @@
 
 - https://nyaa.land/
 
-- linux kommandon:
-- fishd
-- xkill
-
-https://massgrave.dev/
+- https://massgrave.dev/
