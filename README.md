@@ -265,9 +265,7 @@
 - https://yokai.com/
 - https://www.chungkong.nl/minimal-movie-posters/
 - https://purelyhuman.xyz/browse
-
 - https://dawnlabs.github.io/alchemy/
-
 - https://nyaa.land/
-
 - https://massgrave.dev/
+- https://www.michaelfogleman.com/phrases/
