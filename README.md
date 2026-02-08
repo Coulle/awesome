@@ -269,3 +269,4 @@
 - https://nyaa.land/
 - https://massgrave.dev/
 - https://www.michaelfogleman.com/phrases/
+- https://bendodson.com/projects/itunes-artwork-finder/
