@@ -271,3 +271,4 @@
 - https://www.michaelfogleman.com/phrases/
 - https://bendodson.com/projects/itunes-artwork-finder/
 - https://instantusername.com/
+- https://p2r3.github.io/convert/
