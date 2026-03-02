@@ -24,7 +24,7 @@ a {
     padding-right: 10px;
     background-color: white;
     border-style: groove;
-    border-radius: 1500px;
+    border-radius: 0px;
 }
 
 a:hover {
@@ -35,6 +35,7 @@ a:hover {
 .links {
     display: flex;
     justify-content: space-around;
+    
 }
 
 hr {
