@@ -130,6 +130,8 @@
 
 ## Pirat
 
+- VR Team
+- TNT Team
 - [Virgil Search](https://virgil.samidy.com/) - Sökmotor
 - [Monter Group](https://monter.is/) - Mac
 - [Microsoft Activator Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) -  Permanent Windows aktivering
