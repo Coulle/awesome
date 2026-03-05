@@ -272,3 +272,5 @@
 - https://bendodson.com/projects/itunes-artwork-finder/
 - https://instantusername.com/
 - https://p2r3.github.io/convert/
+- https://www.music-map.com/
+- https://www.movie-map.com/
