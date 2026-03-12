@@ -276,3 +276,5 @@
 - https://p2r3.github.io/convert/
 - https://www.music-map.com/
 - https://www.movie-map.com/
+- https://dupeguru.voltaicideas.net/
+- https://freefilesync.org/
