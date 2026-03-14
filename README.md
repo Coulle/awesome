@@ -278,3 +278,8 @@
 - https://www.movie-map.com/
 - https://dupeguru.voltaicideas.net/
 - https://freefilesync.org/
+
+Mac Commands:
+
+- du -sh foldername - Se storlek på mapp
+- find foldername -type f | wc -l - Se hur många filer i en mapp
