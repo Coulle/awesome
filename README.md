@@ -280,6 +280,7 @@
 - https://dupeguru.voltaicideas.net/
 - https://freefilesync.org/
 - https://artistgrid.cx/
+- https://www.fittkramp.se/svordom/sv/
 
 Kommandon:
 
