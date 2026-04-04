@@ -167,6 +167,7 @@
 - [vfxmed](https://www.vfxmed.com/category/blender/) - Massa VFX
 - [1337x](https://1337x-status.org/) - Torrent
 - [appstorrent](https://appstorrent.ru/) - MacOS ryska
+- [nyaa.land](https://nyaa.land/) - Anime och Manga
 
 ## Extensions
 - [Tab session manager](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) - Sparar tabs
@@ -269,7 +270,6 @@
 - https://www.chungkong.nl/minimal-movie-posters/
 - https://purelyhuman.xyz/browse
 - https://dawnlabs.github.io/alchemy/
-- https://nyaa.land/
 - https://massgrave.dev/
 - https://www.michaelfogleman.com/phrases/
 - https://bendodson.com/projects/itunes-artwork-finder/
