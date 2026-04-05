@@ -282,6 +282,7 @@
 - https://artistgrid.cx/
 - https://www.fittkramp.se/svordom/sv/
 - https://www.joo.works/download-iphone-kit
+- https://www.favoree.io/
 
 Kommandon:
 
