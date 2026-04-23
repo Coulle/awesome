@@ -286,6 +286,7 @@
 - https://logobook.com/ SICK
 - https://texture.ninja
 - https://poly.pizza
+- https://diskprices.com/?locale=se
 
 Kommandon:
 
