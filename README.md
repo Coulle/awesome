@@ -295,3 +295,14 @@ Kommandon:
 
 - du -sh foldername - Se storlek på mapp
 - find foldername -type f | wc -l - Se hur många filer i en mapp
+
+
+
+Docker:
+- https://github.com/itzg/docker-minecraft-server
+- https://komo.do/
+- https://github.com/dockur/samba
+- https://immich.app/
+  
+- FROM nginx:alpine
+COPY . /usr/share/nginx/html
