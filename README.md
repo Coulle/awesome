@@ -300,7 +300,6 @@ Kommandon:
 
 Docker:
 - https://github.com/itzg/docker-minecraft-server
-- https://komo.do/
 - https://github.com/dockur/samba
 - https://immich.app/
   
