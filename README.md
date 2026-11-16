@@ -293,6 +293,11 @@
 - https://burn-osx.sourceforge.io/Pages/English/home.html fucking sick
 - https://fmhy.net/
 - https://satyrs.eu/linkroll/
+- https://slumpa.se/
+- https://gibberishfactory.com/
+- https://utrop.xr.se/
+- https://vst.unplug.red/
+- https://jumo-dl.pages.dev/
 
 Kommandon:
 
