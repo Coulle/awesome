@@ -292,6 +292,7 @@
 - https://losslesscut.app/
 - https://burn-osx.sourceforge.io/Pages/English/home.html fucking sick
 - https://fmhy.net/
+- https://satyrs.eu/linkroll/
 
 Kommandon:
 
